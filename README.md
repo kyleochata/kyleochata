@@ -6,7 +6,7 @@ I have found both front-end and back-end fascinating to learn, but I have been g
 
 - 🌍 I'm based in Southern California
 - ✉️ You can contact me at [kyleochata@gmail.com](mailto:kyleochata@gmail.com)
-- 🧠 I'm learning PHP & Python
+- 🧠 I'm learning Go & Docker
 - 🤝 I'm open to collaborating on Projects
 - ⚡ I love pickleball and always looking for doubles matches!
 
