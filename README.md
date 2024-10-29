@@ -2,10 +2,16 @@
 
 ## Full-Stack Developer
 
-Full stack developer. Main languages are Golang, TypeScript, and JavaScript.
+Main languages are Golang, TypeScript, and JavaScript. 
 
 - 🌍 I'm based in Southern California
 - ✉️ You can contact me at [kyleetrata.dev@gmail.com](mailto:kyleetrata.dev@gmail.com)
+
+### Latest Projects
+- [Distributed Log](https://github.com/kyleochata/proglog)
+    - Distributed logging system built using Golang, Protobuf, gRPC, & Kubernetes API.
+- [Container Clone](https://github.com/kyleochata/go-pier)
+    - Containerization tool for Linux built using Golang.
 
 ### Skills
 
